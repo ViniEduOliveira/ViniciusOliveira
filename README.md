@@ -1,6 +1,8 @@
-<h1>Olá, tudo bem? 👋 </h1>
-<!--
-**ViniEduOliveira/ViniEduOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<span>
+  <h1>Sejam bem-vindos ao meu perfil 👋🏻</h1>
+  <h3>Conheça um pouco sobre mim</h3>
+</span>
+<hr>
 
 <h1>💻✨Vinicius Eduardo Santos de Oliveira</h1>
 <p>

@@ -1,9 +1,7 @@
-## Hi there 👋
-
+<h1>Olá, tudo bem? 👋 </h1>
+<hr>
 <!--
-**ViniEduOliveira/ViniEduOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: --->
+**ViniEduOliveira/ViniEduOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h1>Vinicius Eduardo Santos de Oliveira</h1>
 <hr>
@@ -13,6 +11,8 @@ Here are some ideas to get you started: --->
   </h3>
 </p>
 <hr>
+<h2>Habilidades</h2>
+<h3>HTML</h3>
 <!---- 🔭 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

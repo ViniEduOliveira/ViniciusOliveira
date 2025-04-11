@@ -1,18 +1,17 @@
 <h1>Olá, tudo bem? 👋 </h1>
-<hr>
 <!--
 **ViniEduOliveira/ViniEduOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<h1>Vinicius Eduardo Santos de Oliveira</h1>
-<hr>
+<h1>💻✨Vinicius Eduardo Santos de Oliveira</h1>
 <p>
   <h3>
     Sou estudante iniciante na área de TI e faço bacharelado em Ciência da Computação na Universidade Braz Cubas em Mogi das Cruzes/SP. Sempre foi uma área chamou a minha atenção e hoje sou feliz por esta iniciante essa nova etapa na minha vida. Além do TI, sou técnico em Administração.
   </h3>
 </p>
 <hr>
-<h2>Habilidades</h2>
+<h2>📚 Habilidades</h2>
 <h3>HTML</h3>
+<h2>Comunicação</h2>
 <!---- 🔭 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
